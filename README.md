@@ -6,7 +6,8 @@
 ポートフォリオを準備中...
 
 高校で自動運転のミニカー(Donkeycar, JetRacerで検索🔎)を触って制御にハマり、TUTでロボコンやってます。
-Python, C, C++
+Python(Tensorflow, Pytorch, Optuna), C, C++
+最近はDiscordBotづくりにはまってます。
 <!--
 **Maca-nuts/Maca-nuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 マカダミアナッツが好きなのでマカナツです。
 ポートフォリオを準備中...
 
-高校で自動運転のミニカー(Donkeycar, JetRacerで検索🔎)を触って制御にハマり、TUTでロボコンやってます。
+高校で自動運転のミニカー(Donkeycar, JetRacerで検索)を触って制御にハマり、TUTでロボコンやってます。
 
 Python(Tensorflow, Pytorch, Optuna), C/C++
 

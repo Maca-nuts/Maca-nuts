@@ -3,10 +3,6 @@
 <img src="https://avatars.githubusercontent.com/u/252583932?v=4" width="20%"/>
 
 マカダミアナッツが好きなのでマカナツです。
-
-高校で自動運転のミニカー(Donkeycar, JetRacerで検索)を触って制御にハマり、豊橋でロボコンやってます。
-
-Python, C, CPP
 <!--
 **Maca-nuts/Maca-nuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
